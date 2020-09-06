@@ -1,4 +1,4 @@
-# Reproducible Research:  Assessment 1
+# Reproducible Research:  Assessment 1 week 2
 
 ## Loading and preprocessing the data
 ```{r loaddata}
